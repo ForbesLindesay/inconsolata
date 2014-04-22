@@ -2,7 +2,7 @@
 
 The inconsolata typeface
 
-[![NPM version](https://badge.fury.io/js/inconsolata.png)](http://badge.fury.io/js/inconsolata)
+[![NPM version](https://img.shields.io/npm/v/inconsolata.svg)](http://badge.fury.io/js/inconsolata)
 
 ## Installation
 
