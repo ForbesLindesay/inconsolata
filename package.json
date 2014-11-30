@@ -2,10 +2,10 @@
   "name": "inconsolata",
   "version": "0.0.2",
   "description": "The inconsolata typeface",
-  "keywords": [],
+  "keywords": ["font"],
   "repository": {
     "type": "git",
     "url": "https://github.com/ForbesLindesay/inconsolata.git"
   },
-  "license": "SIL Open Font License, 1.1"
+  "license": "OFL-1.1"
 }

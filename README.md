@@ -1,6 +1,6 @@
 # inconsolata
 
-The inconsolata typeface
+The inconsolata typeface by Raph Levien. From http://www.google.com/fonts/specimen/Inconsolata.
 
 [![NPM version](https://img.shields.io/npm/v/inconsolata.svg)](http://badge.fury.io/js/inconsolata)
 
@@ -10,4 +10,4 @@ The inconsolata typeface
 
 ## License
 
-  MIT
+  The SIL Open Font License 1.1 (OFL-1.1).
