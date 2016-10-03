@@ -8,6 +8,10 @@ The inconsolata typeface by Raph Levien. From http://www.google.com/fonts/specim
 
     npm install inconsolata
 
+If you are in the context of webpack you can import it using the following
+
+    import '~incosolata/index.css';
+
 ## License
 
   The SIL Open Font License 1.1 (OFL-1.1).
