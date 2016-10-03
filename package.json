@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "The inconsolata typeface",
   "keywords": ["font"],
+  "main": "index.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/ForbesLindesay/inconsolata.git"
